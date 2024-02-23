@@ -1,0 +1,4 @@
+# Ignore screenshots e vídeos gerados pelo Cypress
+cypress/screenshots/
+cypress/videos/
+package-lock.json
